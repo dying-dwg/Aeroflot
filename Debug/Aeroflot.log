@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Developer\CPP\University\Aeroflot\main.cpp(211,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Aeroflot.vcxproj -> D:\Developer\CPP\University\Aeroflot\Debug\Aeroflot.exe
